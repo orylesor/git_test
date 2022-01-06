@@ -1,3 +1,3 @@
 # git_test
 Hello, Odin!
-I can haz STDIO?
+You can haz Big Mac.
